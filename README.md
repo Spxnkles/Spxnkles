@@ -1,11 +1,11 @@
 ## About Me
+- Entry Level Full Stack Developer
 - High School of Electrical Engineering Student
 - Field of Studies: Information and Communications Technologies
 - From Slovakia
 - Fluent in English
-- Entry Level Full Stack Developer
 
-## What do I know?
+## Skills
 - C#, HTML, CSS, JavaScript
 - Learning C/C++
 - Blender & Graphic Design
