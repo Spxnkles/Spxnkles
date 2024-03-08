@@ -6,5 +6,6 @@
 
 ## What do I know?
 - C#, HTML, CSS, JavaScript
-- Learning C++
-- Modelling in Blender, Graphic Design
+- Learning C/C++
+- Blender & Graphic Design
+- Unreal Engine 5 & Unity Engine
