@@ -3,6 +3,7 @@
 - Field of Studies: Information and Communications Technologies
 - From Slovakia
 - Fluent in English
+- Entry Level Full Stack Developer
 
 ## What do I know?
 - C#, HTML, CSS, JavaScript
