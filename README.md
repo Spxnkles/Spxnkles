@@ -4,7 +4,7 @@
 - Fluent in English
 
 ## Skills
-- C#, Java, Python, HTML, CSS (Tailwind), JavaScript (Node.js & Next.js)
+- C#, Java, HTML, CSS, JavaScript
 - Blender & Fusion 360
-- Unreal Engine 5 & Unity Engine
+- Unity Engine
 - Git Source Control
